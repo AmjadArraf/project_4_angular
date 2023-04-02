@@ -1,0 +1,5 @@
+the database is called "onlineShop" it contains 5 collections: users, products, categories ,carts, orders
+
+each user has cartKey (cartId) to his cart in the carts collection
+each product has catKey (category key) to his category in the categories collection
+each users cart contains an array of products and their amount added to the cart by the user, and the date the cart was created, and the cart key. 

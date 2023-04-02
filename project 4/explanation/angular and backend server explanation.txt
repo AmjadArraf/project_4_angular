@@ -1,0 +1,17 @@
+angular:
+in order to run angular please run with "npm start" or "ng serve --proxy-config proxy.conf.json" in order to use th proxy server.
+
+in angular the request are sent to a proxy server using '/api' and the the server forwards it to the back end server
+
+the store is made of:
+1- the login page in case the user is not logged in (if logged in the page is redirected automatically to the store front page. its checked using token saved in the browser cookies).
+2- the store front page, where products can be viewed, added to removed from the users cart. the cart will display the products and the amounts and the total sum. with an option to remove products from the cart.
+3-the checkout page which is displayed if the user presses the checkout button, here the checkout is performed.
+the redirection between the pages is made through the routes method.
+
+node with mongoDb:
+the backend server is used to deal with requests from angular and to add, update or remove items from mongoDB collections.
+and is using validation and authentication middleware.
+ 
+when a legitimate registration or login is perfromed the server will return an access token which is store in the cookies and is used in the verification needed for some requests to the server.
+

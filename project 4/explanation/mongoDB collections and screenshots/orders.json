@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6428b02782c4a8a06018de7e"
+  },
+  "firstName": "firstName",
+  "familyName": "lastName",
+  "email": "email",
+  "address": "address",
+  "creditNumber": "creditNumber",
+  "totalSum": "totalSum",
+  "products": []
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6421fbcf4e0b7eee37a11d75"
+  },
+  "key": 1,
+  "name": "dairy"
+},{
+  "_id": {
+    "$oid": "6421fc024e0b7eee37a11d76"
+  },
+  "key": 2,
+  "name": "meat"
+},{
+  "_id": {
+    "$oid": "6421fc124e0b7eee37a11d77"
+  },
+  "key": 3,
+  "name": "sweets"
+}]

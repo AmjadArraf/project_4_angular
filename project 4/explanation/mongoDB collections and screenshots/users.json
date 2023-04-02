@@ -1,0 +1,258 @@
+[{
+  "_id": {
+    "$oid": "6421fa204e0b7eee37a11d71"
+  },
+  "firstName": "Amjad",
+  "familyName": "Arraf",
+  "email": "amj.arr@gmail.com",
+  "id": 300830320,
+  "password": "Amjad123",
+  "city": "Mi'ilya",
+  "street": "Aljanawiya",
+  "role": "admin",
+  "cartKey": 0
+},{
+  "_id": {
+    "$oid": "6421fb1e4e0b7eee37a11d72"
+  },
+  "firstName": "Jos",
+  "familyName": "Arraf",
+  "email": "jos.arraf@gmail.com",
+  "id": 302226548,
+  "password": "Jos54678",
+  "city": "Mi'ilya",
+  "street": "Almarah",
+  "role": "user",
+  "cartKey": 0
+},{
+  "_id": {
+    "$oid": "6421fb654e0b7eee37a11d73"
+  },
+  "firstName": "Nia",
+  "familyName": "Assaf",
+  "email": "nia.assaf@gmail.com",
+  "id": 209876541,
+  "password": "Nia987654",
+  "city": "Mi'ilya",
+  "street": "Darbelwadi",
+  "role": "user",
+  "cartKey": 0
+},{
+  "_id": {
+    "$oid": "64232ab48cfbacdc56e76c6b"
+  },
+  "firstName": "Hello",
+  "familyName": "You",
+  "email": "hello.you@gmail.com",
+  "id": 123456789,
+  "password": "Hello987654",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64232c2753402bc18114c892"
+  },
+  "firstName": "Hello",
+  "familyName": "You",
+  "email": "hello.you@gmail.com",
+  "id": 123456789,
+  "password": "Hello987654",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64232cadec48c94a9368d36e"
+  },
+  "firstName": "Hello",
+  "familyName": "You",
+  "email": "hello.you1@gmail.com",
+  "id": 123456780,
+  "password": "Hello987654",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642325f182c4a8a06018de37"
+  },
+  "firstName": "Hello1",
+  "familyName": "You1",
+  "email": "hello12.you@gmail.com",
+  "id": 123456775,
+  "password": "Hello987654",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64235061186beb82cd6c2d76"
+  },
+  "firstName": "Hello1",
+  "familyName": "You1",
+  "email": "hello1235.you@gmail.com",
+  "id": 123456787,
+  "password": "Hello987654",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64236070eacb8755e16877e8"
+  },
+  "firstName": "Hello1",
+  "familyName": "You1",
+  "email": "hello435421.you@gmail.com",
+  "id": 123457789,
+  "password": "$2a$10$5RcifjVsz4FrSonDJqcox.9BlkecgM9X0/vZXYYHneDtF4MtJezru",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64236a2899307c50d047e772"
+  },
+  "firstName": "Hello1",
+  "familyName": "You1",
+  "email": "hello1111665.you@gmail.com",
+  "id": 123111141,
+  "password": "$2a$10$DXPCL28dhr45rjq5MACZ3.IYKkzIP50OnGn6ZDzJ6BPzGB/G5XdLO",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642621f0c5bc1c391304d435"
+  },
+  "firstName": "Hello1",
+  "familyName": "You1",
+  "email": "hel23425.you@gmail.com",
+  "id": 126782221,
+  "password": "$2a$10$1G0IhTMib8Rwz8XaFIcWyOJnXpC6OJoen5ND.HXNE8yrt8Iu6x4fK",
+  "city": "Mi'ilya",
+  "street": "Albeyader",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64262910c1c8f01992838be5"
+  },
+  "firstName": "sadsd",
+  "familyName": "asdasd",
+  "email": "sdsdss.asd22as@gmail.com",
+  "id": {
+    "$numberLong": "343424122112"
+  },
+  "password": "$2a$10$rkh5gMKp6Ad9BzSv9RI9a.OrWzfWa.qO54bVHWCpwS.1QLvs/6X2S",
+  "city": "asdasdas",
+  "street": "asdassa",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64262ceb4457d46a9db70a64"
+  },
+  "firstName": "amjad",
+  "familyName": "sadasd",
+  "email": "asdas.asdas@asd.com",
+  "id": {
+    "$numberLong": "34342445435"
+  },
+  "password": "$2a$10$ZwtLNSmfa0.DaegLhfTjTuBHaMDWx2TsARMK09pFhlfDu8HLM6582",
+  "city": "asdasdas",
+  "street": "asdassa",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6426e71d4457d46a9db70a6a"
+  },
+  "firstName": "sadsd",
+  "familyName": "sadasd",
+  "email": "asdas.asda123s@asd.com",
+  "id": {
+    "$numberLong": "3434241879"
+  },
+  "password": "$2a$10$fM017ULV8W9DfnF5ZT63keGb.Rvox40MfAqWgP6BNZOnnYymcNMCi",
+  "city": "asdasdas",
+  "street": "asdassa",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6426e9c205abb311759e7de8"
+  },
+  "firstName": "naya",
+  "familyName": "arraf",
+  "email": "naya.arraf@gmail.com",
+  "id": 258369147,
+  "password": "$2a$10$p1jCwSvkp1lpmanGYBOaHOINGJEddtO8d2AgQmitgnmbnjAuS1QqC",
+  "city": "Mi'ilya",
+  "street": "al janaweya",
+  "role": "user",
+  "cartKey": 18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64274ec78a06c86fd99cf5f1"
+  },
+  "firstName": "yohoo",
+  "familyName": "hello",
+  "email": "yohoo.hello@gmail.com",
+  "id": 789145236,
+  "password": "$2a$10$5YM8m1qLCCG9bxtmb8AnE.j7jKHy2NpXlhODZ0JKEpSNNmYWkYTeK",
+  "city": "haifa",
+  "street": "hohoo",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64274f81d2f919dabcf53529"
+  },
+  "firstName": "yohoo",
+  "familyName": "hello",
+  "email": "asdas.a2323s@asd.com",
+  "id": 343343444,
+  "password": "$2a$10$6MPWcYcUlKPMC6nitZukQOfBdTRhbyY7ug1mQ8DjYn.HEiTPw0vU.",
+  "city": "haifa",
+  "street": "asdsad",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427503f671023ad9e41bc19"
+  },
+  "firstName": "sadsd",
+  "familyName": "hello",
+  "email": "yoh233oo.hello@gmail.com",
+  "id": {
+    "$numberLong": "3434344434"
+  },
+  "password": "$2a$10$uMkLwAgyASkbkOcz4jWCCeg6KpLQvxlbRaXH1SWWzsPdEe.ccKusW",
+  "city": "asdas",
+  "street": "hohoo",
+  "role": "user",
+  "cartKey": 0,
+  "__v": 0
+}]

@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "6421fc8b4e0b7eee37a11d79"
+  },
+  "key": 1,
+  "name": "Milk",
+  "catKey": 1,
+  "price": 5,
+  "img": "assets/imgs/milk.jpeg"
+},{
+  "_id": {
+    "$oid": "6421fd314e0b7eee37a11d7a"
+  },
+  "key": 2,
+  "name": "Cheese",
+  "catKey": 1,
+  "price": 7,
+  "img": "assets/imgs/cheese.jpeg"
+},{
+  "_id": {
+    "$oid": "6421fd4d4e0b7eee37a11d7b"
+  },
+  "key": 3,
+  "name": "Yoghurt",
+  "catKey": 1,
+  "price": 6,
+  "img": "assets/imgs/yoghurt.jpg"
+},{
+  "_id": {
+    "$oid": "6421fd734e0b7eee37a11d7c"
+  },
+  "key": 4,
+  "name": "Chiken",
+  "catKey": 2,
+  "price": 10,
+  "img": "assets/imgs/chicken.jpeg"
+},{
+  "_id": {
+    "$oid": "6421fd954e0b7eee37a11d7d"
+  },
+  "key": 5,
+  "name": "Beef",
+  "catKey": 2,
+  "price": 15,
+  "img": "assets/imgs/beef.jpeg"
+},{
+  "_id": {
+    "$oid": "6421fdae4e0b7eee37a11d7e"
+  },
+  "key": 6,
+  "name": "Veal",
+  "catKey": 2,
+  "price": 13,
+  "img": "assets/imgs/veal.jpeg"
+},{
+  "_id": {
+    "$oid": "6421fdf24e0b7eee37a11d7f"
+  },
+  "key": 7,
+  "name": "Chocolate",
+  "catKey": 3,
+  "price": 3,
+  "img": "assets/imgs/chocolate.jpeg"
+},{
+  "_id": {
+    "$oid": "6421fe124e0b7eee37a11d80"
+  },
+  "key": 8,
+  "name": "Ice Cream",
+  "catKey": 3,
+  "price": 8,
+  "img": "assets/imgs/icecream.jpg"
+},{
+  "_id": {
+    "$oid": "6422fc1991cdb1aa1622a992"
+  },
+  "key": 9,
+  "name": "Something1",
+  "catKey": 3,
+  "price": 8,
+  "img": "",
+  "__v": 0
+}]
